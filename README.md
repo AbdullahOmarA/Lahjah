@@ -1,11 +1,4 @@
 # Lahjah 
-# Team Members
-| Name | Role |
-|---|---|
-| Abdulrahman Albaqami | Idea & Dataset, ML, DL Deployment |
-| Raghad Ali | Idea & Dataset ,ML, DL, Data Cleanse |
-| Abdullah Alturki | ML, Data Cleanse,DL, Dashboard |
-| Saeed Alqahtani | EDA, Presentation, ML |
 
 # Introduction
 Natural language processing is one of the most difficult fields, as it deals directly with text, and it is difficult for a computer to classify text with multiple classifications.
